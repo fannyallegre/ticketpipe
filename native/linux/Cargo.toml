@@ -1,0 +1,13 @@
+[package]
+name = "ticketpipe-controller"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+serde_json = "=1.0.145"
+serde = { version = "=1.0.228", features = ["derive"] }
+atspi = { version = "=0.30.0", features = ["tokio"] }
+tokio = { version = "1", features = ["rt-multi-thread", "time", "sync"] }
+futures-util = "0.3"
+x11rb = { version = "0.13", features = ["xtest", "xkb"] }

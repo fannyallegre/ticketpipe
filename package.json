@@ -1,0 +1,26 @@
+{
+  "name": "ticketpipe",
+  "version": "0.1.0",
+  "description": "TicketPipe: turn what screenpipe already saw into a precise IT ticket, or a quick fix.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "app": "bun run src/app.ts",
+    "demo": "bun run src/app.ts --demo",
+    "dev": "bun run src/server.ts",
+    "ticket": "bun run src/cli.ts",
+    "snapshot": "bun run scripts/snapshot.ts",
+    "build": "bun run scripts/build.ts",
+    "build:native": "bun run scripts/build-native.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.6.0"
+  },
+  "dependencies": {
+    "dompurify": "^3.4.17",
+    "marked": "12"
+  }
+}

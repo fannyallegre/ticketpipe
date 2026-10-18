@@ -1,0 +1,514 @@
+{
+  "data": [
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1039,
+        "text": "Daily Mix 2\nNow playing",
+        "timestamp": "2026-10-17T08:40:00.000Z",
+        "app_name": "Spotify",
+        "window_name": "Spotify Premium",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1038,
+        "text": "#it-help\nJulien: anyone else unable to connect to the VPN this morning?\nSarah: works fine for me",
+        "timestamp": "2026-10-17T08:39:04.000Z",
+        "app_name": "Slack",
+        "window_name": "#it-help - Acme",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1037,
+        "text": "#it-help\nJulien: anyone else unable to connect to the VPN this morning?\nSarah: works fine for me",
+        "timestamp": "2026-10-17T08:39:00.000Z",
+        "app_name": "Slack",
+        "window_name": "#it-help - Acme",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1036,
+        "text": "To: it-support@acme-corp.com\nSubject: VPN marche pas\nBonjour,\nle VPN ne marche plus depuis ce matin, je ne peux pas accéder à l'intranet.\nMerci",
+        "timestamp": "2026-10-17T08:38:08.000Z",
+        "app_name": "Microsoft Outlook",
+        "window_name": "New Message",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1035,
+        "text": "To: it-support@acme-corp.com\nSubject: VPN marche pas\nBonjour,\nle VPN ne marche plus depuis ce matin, je ne peux pas accéder à l'intranet.\nMerci",
+        "timestamp": "2026-10-17T08:38:04.000Z",
+        "app_name": "Microsoft Outlook",
+        "window_name": "New Message",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1034,
+        "text": "To: it-support@acme-corp.com\nSubject: VPN marche pas\nBonjour,\nle VPN ne marche plus depuis ce matin, je ne peux pas accéder à l'intranet.\nMerci",
+        "timestamp": "2026-10-17T08:38:00.000Z",
+        "app_name": "Microsoft Outlook",
+        "window_name": "New Message",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1033,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:36:49.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1032,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:36:45.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "UI",
+      "content": {
+        "id": 1031,
+        "text": "opened: GlobalProtect.app",
+        "timestamp": "2026-10-17T08:36:30.000Z",
+        "app_name": "Finder",
+        "window_name": "Applications"
+      }
+    },
+    {
+      "type": "UI",
+      "content": {
+        "id": 1030,
+        "text": "menu: Quit GlobalProtect",
+        "timestamp": "2026-10-17T08:36:00.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect"
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1029,
+        "text": "About GlobalProtect\nVersion 6.2.1-87\nCopyright Palo Alto Networks",
+        "timestamp": "2026-10-17T08:35:44.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "About GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1028,
+        "text": "About GlobalProtect\nVersion 6.2.1-87\nCopyright Palo Alto Networks",
+        "timestamp": "2026-10-17T08:35:40.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "About GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1027,
+        "text": "About\nMacBook Pro\n14-inch, 2024\nChip Apple M3 Pro\nmacOS Sequoia\nVersion 15.4.1",
+        "timestamp": "2026-10-17T08:35:04.000Z",
+        "app_name": "System Settings",
+        "window_name": "About",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1026,
+        "text": "About\nMacBook Pro\n14-inch, 2024\nChip Apple M3 Pro\nmacOS Sequoia\nVersion 15.4.1",
+        "timestamp": "2026-10-17T08:35:00.000Z",
+        "app_name": "System Settings",
+        "window_name": "About",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1025,
+        "text": "VPN setup\nlogin: jdoe\npassword: Hunter2!Acme\nhelpdesk: jane.doe@acme-corp.com / 01 23 45 67 89",
+        "timestamp": "2026-10-17T08:34:04.000Z",
+        "app_name": "Notes",
+        "window_name": "VPN",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1024,
+        "text": "VPN setup\nlogin: jdoe\npassword: Hunter2!Acme\nhelpdesk: jane.doe@acme-corp.com / 01 23 45 67 89",
+        "timestamp": "2026-10-17T08:34:00.000Z",
+        "app_name": "Notes",
+        "window_name": "VPN",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1023,
+        "text": "jdoe@MacBook-Pro ~ % ping -c 3 vpn.acme-corp.com\nPING vpn.acme-corp.com (203.0.113.12): 56 data bytes\n64 bytes from 203.0.113.12: icmp_seq=0 ttl=55 time=21.3 ms\n64 bytes from 203.0.113.12: icmp_seq=1 ttl=55 time=20.9 ms\n3 packets transmitted, 3 packets received, 0.0% packet loss",
+        "timestamp": "2026-10-17T08:33:04.000Z",
+        "app_name": "Terminal",
+        "window_name": "jdoe — zsh",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1022,
+        "text": "jdoe@MacBook-Pro ~ % ping -c 3 vpn.acme-corp.com\nPING vpn.acme-corp.com (203.0.113.12): 56 data bytes\n64 bytes from 203.0.113.12: icmp_seq=0 ttl=55 time=21.3 ms\n64 bytes from 203.0.113.12: icmp_seq=1 ttl=55 time=20.9 ms\n3 packets transmitted, 3 packets received, 0.0% packet loss",
+        "timestamp": "2026-10-17T08:33:00.000Z",
+        "app_name": "Terminal",
+        "window_name": "jdoe — zsh",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1021,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:32:18.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1020,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:32:14.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1019,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:32:10.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "UI",
+      "content": {
+        "id": 1018,
+        "text": "clicked: Retry",
+        "timestamp": "2026-10-17T08:32:00.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect"
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1017,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:31:48.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1016,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:31:44.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1015,
+        "text": "GlobalProtect\nConnection Failed\nGateway eu-west-gw: Required client certificate is not found or has expired.\nClient certificate expired on 2026-10-15\nRetry\nOK",
+        "timestamp": "2026-10-17T08:31:40.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1014,
+        "text": "GlobalProtect\nConnecting...\nPortal: vpn.acme-corp.com\nGateway: eu-west-gw",
+        "timestamp": "2026-10-17T08:31:19.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1013,
+        "text": "GlobalProtect\nConnecting...\nPortal: vpn.acme-corp.com\nGateway: eu-west-gw",
+        "timestamp": "2026-10-17T08:31:15.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "UI",
+      "content": {
+        "id": 1012,
+        "text": "clicked: Connect",
+        "timestamp": "2026-10-17T08:31:10.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect"
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1011,
+        "text": "GlobalProtect\nNot Connected\nPortal: vpn.acme-corp.com\nConnect",
+        "timestamp": "2026-10-17T08:31:04.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1010,
+        "text": "GlobalProtect\nNot Connected\nPortal: vpn.acme-corp.com\nConnect",
+        "timestamp": "2026-10-17T08:31:00.000Z",
+        "app_name": "GlobalProtect",
+        "window_name": "GlobalProtect",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1009,
+        "text": "This site can't be reached\nintranet.acme-corp.local took too long to respond.\nERR_CONNECTION_TIMED_OUT",
+        "timestamp": "2026-10-17T08:30:34.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1008,
+        "text": "This site can't be reached\nintranet.acme-corp.local took too long to respond.\nERR_CONNECTION_TIMED_OUT",
+        "timestamp": "2026-10-17T08:30:30.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "UI",
+      "content": {
+        "id": 1007,
+        "text": "clicked: Reload",
+        "timestamp": "2026-10-17T08:30:20.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet"
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1006,
+        "text": "This site can't be reached\nintranet.acme-corp.local took too long to respond.\nTry:\nChecking the connection\nChecking the proxy and the firewall\nERR_CONNECTION_TIMED_OUT\nReload",
+        "timestamp": "2026-10-17T08:30:08.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1005,
+        "text": "This site can't be reached\nintranet.acme-corp.local took too long to respond.\nTry:\nChecking the connection\nChecking the proxy and the firewall\nERR_CONNECTION_TIMED_OUT\nReload",
+        "timestamp": "2026-10-17T08:30:04.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1004,
+        "text": "This site can't be reached\nintranet.acme-corp.local took too long to respond.\nTry:\nChecking the connection\nChecking the proxy and the firewall\nERR_CONNECTION_TIMED_OUT\nReload",
+        "timestamp": "2026-10-17T08:30:00.000Z",
+        "app_name": "Google Chrome",
+        "window_name": "Acme Intranet",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1003,
+        "text": "Daily Mix 2\nNow playing\nShuffle",
+        "timestamp": "2026-10-17T08:29:04.000Z",
+        "app_name": "Spotify",
+        "window_name": "Spotify Premium",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1002,
+        "text": "Daily Mix 2\nNow playing\nShuffle",
+        "timestamp": "2026-10-17T08:29:00.000Z",
+        "app_name": "Spotify",
+        "window_name": "Spotify Premium",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1001,
+        "text": "#general\nThomas: who's in for lunch at 12:30?\nLéa: me!",
+        "timestamp": "2026-10-17T08:28:04.000Z",
+        "app_name": "Slack",
+        "window_name": "#general - Acme",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    },
+    {
+      "type": "OCR",
+      "content": {
+        "frame_id": 1000,
+        "text": "#general\nThomas: who's in for lunch at 12:30?\nLéa: me!",
+        "timestamp": "2026-10-17T08:28:00.000Z",
+        "app_name": "Slack",
+        "window_name": "#general - Acme",
+        "file_path": "",
+        "offset_index": 0,
+        "tags": []
+      }
+    }
+  ],
+  "pagination": {
+    "limit": 200,
+    "offset": 0,
+    "total": 40
+  }
+}
